@@ -4,6 +4,7 @@ font-family: 'Conv_Raleway-Light', sans-serif;
 font-family: 'Conv_Raleway-Medium', sans-serif;
 font-family: 'Conv_Raleway-Regular', sans-serif;
 font-family: 'Conv_Raleway-ExtraBold', sans-serif;
+font-family: 'Conv_Raleway-ExtraLight', sans-serif;
 */
 .container {
     width: 1170px;
@@ -323,3 +324,54 @@ div.clear {
 }
 
 /*----------END-PROJ-----------*/
+
+/*----------CUSTOMERS-----------*/
+
+.customer {
+    background: url("../img/custom.png") no-repeat center;
+}
+.customer-header-wrap {
+    text-align: center;
+    margin-bottom: 26px;
+}
+.customer-header {
+    display: inline-block;
+    color: rgb(208, 208, 208);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    margin: 70px 18px 0 18px;
+}
+.customer-line {
+    display: inline-block;
+    vertical-align: 30%;
+    width: 82px;
+    height: 1px;
+    background-color: rgb(119, 119, 119);
+}
+.slider-customer-wrap {
+    margin: 0 115px 0 115px;
+}
+.slider-customer-text {
+    text-align: center;
+    color: rgb(216, 216, 216);
+    font-family: 'Conv_Raleway-ExtraLight', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 35px;
+    margin-bottom: 18px;
+}
+.slider-person {
+    color: rgb(26, 187, 156);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+/*---------END-CUSTOMERS---------*/

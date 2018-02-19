@@ -76,6 +76,7 @@
 
 .slick-slide
 {
+    outline: none;
     display: none;
     float: left;
     position: relative;
