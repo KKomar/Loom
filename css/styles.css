@@ -195,7 +195,7 @@ div.clear {
 /*----------PROCESS------------*/
 
 .process {
-    background: url("../img/process.png") no-repeat center;
+    background: url("../img/process.png") no-repeat ;
 }
 .process-header-wrap {
     text-align: center;
@@ -259,6 +259,67 @@ div.clear {
 
 /*------------PROJ----------*/
 
-
+.proj-header-wrap {
+    text-align: center;
+    margin-bottom: 18px;
+}
+.proj-header {
+    display: inline-block;
+    color: rgb(97, 97, 97);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    margin: 78px 18px 40px 18px;
+}
+.proj-line {
+    display: inline-block;
+    vertical-align: 30%;
+    width: 82px;
+    height: 1px;
+    background-color: rgb(225, 225, 225);
+}
+.proj-content {
+    float: left;
+    width: 370px;
+    margin: 0 30px 0 0;
+}
+.proj-content_last {
+    margin-right: 0;
+}
+.proj-img {
+    width: 373px;
+    height: 250px;
+    margin-bottom: 20px;
+}
+.proj-content-header {
+    text-align: center;
+    color: rgb(96, 96, 96);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.proj-link {
+    color: rgb(26, 187, 156);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 26px;
+    text-decoration: none;
+    text-align: center;
+}
+.proj-content-text {
+    color: rgb(122, 122, 122);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    text-align: center;
+    padding: 0 24px;
+    margin-top: 20px;
+    margin-bottom: 75px;
+}
 
 /*----------END-PROJ-----------*/
