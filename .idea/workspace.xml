@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de317350-83ba-4d77-a12b-52c4aed08123" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raleway_3.0.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/CONTRIBUTING.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick.jquery.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/config.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/fonts/slick.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/fonts/slick.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/fonts/slick.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/fonts/slick.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick-theme.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick-theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/slick-1.8.0/slick/slick.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/fonts.css" afterPath="$PROJECT_DIR$/css/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="$PROJECT_DIR$/css/responsive.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/slick-theme.css" afterPath="$PROJECT_DIR$/css/slick-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/slick.css" afterPath="$PROJECT_DIR$/css/slick.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
@@ -27,28 +54,8 @@
           <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="175">
-                  <caret line="236" column="25" lean-forward="false" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/scripts.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="slick.min.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/slick.min.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-153">
-                  <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+                <state relative-caret-position="170">
+                  <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
                   <folding />
                 </state>
               </provider>
@@ -61,8 +68,18 @@
           <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/styles.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="355" column="1" lean-forward="false" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
+                <state relative-caret-position="345">
+                  <caret line="528" column="10" lean-forward="false" selection-start-line="528" selection-start-column="0" selection-end-line="528" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/css/responsive.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="17">
+                  <caret line="380" column="24" lean-forward="false" selection-start-line="380" selection-start-column="24" selection-end-line="380" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -89,16 +106,18 @@
       <list>
         <option value="$PROJECT_DIR$/js/jQuery.js" />
         <option value="$PROJECT_DIR$/css/reset.css" />
-        <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/js/jquery.js" />
         <option value="$PROJECT_DIR$/jquery.js" />
         <option value="$PROJECT_DIR$/css/fonts.css" />
         <option value="$PROJECT_DIR$/css/slick-theme-2.css" />
+        <option value="$PROJECT_DIR$/css/slick.css" />
+        <option value="$PROJECT_DIR$/css/slick-theme.css" />
+        <option value="$PROJECT_DIR$/css/slicknav.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/css/slick-theme.css" />
-        <option value="$PROJECT_DIR$/css/slick.css" />
+        <option value="$PROJECT_DIR$/css/responsive.css" />
+        <option value="$PROJECT_DIR$/css/temp.java" />
       </list>
     </option>
   </component>
@@ -109,7 +128,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="78" />
+    <option name="y" value="67" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -130,6 +150,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,16 +163,10 @@
               <item name="Loom" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Loom" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Loom" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,12 +175,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\HTML, CSS, JS, jQuery\Sites\Loom\js" />
       <recent name="E:\HTML, CSS, JS, jQuery\Sites\Loom\css" />
       <recent name="E:\HTML, CSS, JS, jQuery\Sites\Loom" />
-      <recent name="E:\HTML, CSS, JS, jQuery\Sites\Loom\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\HTML, CSS, JS, jQuery\Sites\Loom\css" />
@@ -198,12 +214,20 @@
       <workItem from="1518954315367" duration="7896000" />
       <workItem from="1518970979001" duration="4289000" />
       <workItem from="1518979353200" duration="5018000" />
-      <workItem from="1519041744494" duration="19103000" />
+      <workItem from="1519041744494" duration="21446000" />
+      <workItem from="1519066548998" duration="7061000" />
+      <workItem from="1519134082288" duration="328000" />
+      <workItem from="1519302335143" duration="747000" />
+      <workItem from="1519318365748" duration="6768000" />
+      <workItem from="1519403838294" duration="12162000" />
+      <workItem from="1519473182157" duration="12785000" />
+      <workItem from="1519911975528" duration="136000" />
+      <workItem from="1519930310770" duration="97000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43586000" />
+    <option name="totallyTimeSpent" value="86013000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -211,7 +235,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18008785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -240,6 +264,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2159">
@@ -260,7 +299,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -268,7 +306,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -276,7 +313,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -284,7 +320,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -292,7 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -308,7 +342,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -324,7 +357,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -332,7 +364,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -340,7 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -348,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -364,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -380,7 +408,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,7 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1360">
           <caret line="80" column="23" lean-forward="false" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -396,7 +422,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -404,7 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -420,7 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -436,7 +459,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -444,7 +466,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -460,7 +481,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -487,13 +507,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/slick.js" />
-    <entry file="file://$PROJECT_DIR$/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="10336" column="4" lean-forward="false" selection-start-line="10336" selection-start-column="4" selection-end-line="10336" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -501,7 +514,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slick-theme-2.css">
+    <entry file="file://$PROJECT_DIR$/slick-theme-2.css" />
+    <entry file="file://$PROJECT_DIR$/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick-theme-2.css" />
+    <entry file="file://$PROJECT_DIR$/css/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="178" column="1" lean-forward="false" selection-start-line="178" selection-start-column="1" selection-end-line="178" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.slicknav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/slicknav.css" />
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/temp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175508">
+          <caret line="10336" column="4" lean-forward="false" selection-start-line="10336" selection-start-column="4" selection-end-line="10336" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="380" column="24" lean-forward="false" selection-start-line="380" selection-start-column="24" selection-end-line="380" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="528" column="10" lean-forward="false" selection-start-line="528" selection-start-column="0" selection-end-line="528" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -509,74 +606,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/slick-theme-2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/slick.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="236" column="25" lean-forward="false" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/slick.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="78" column="18" lean-forward="false" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/slick-theme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="162" column="12" lean-forward="false" selection-start-line="162" selection-start-column="12" selection-end-line="162" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="355" column="1" lean-forward="false" selection-start-line="355" selection-start-column="1" selection-end-line="355" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="55" lean-forward="false" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
           <folding />
         </state>
       </provider>

@@ -2,19 +2,23 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Adaptive</title>
-    <link rel="stylesheet" type="text/css" href="css/reset.css">
-    <link rel="stylesheet" type="text/css" href="css/fonts.css">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/fonts.css">
     <link rel="stylesheet" href="css/slick.css">
     <link rel="stylesheet" href="css/slick-theme.css">
-    <link rel="stylesheet" href="css/slick-theme-2.css">
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/responsive.css">
     <script src="js/jquery.js"></script>
     <script src="js/scripts.js"></script>
     <script src="js/slick.min.js"></script>
+    <script src="js/jquery.slicknav.js"></script>
 </head>
 <body>
 <div class="header-line"></div>
+
 <header class="header">
     <div class="container clearfix">
         <a href="" class="header-logo">
@@ -40,14 +44,17 @@
                 <a href="#" class="header-menu-link">CONTACT</a>
             </li>
         </ul>
+        <div class="mobile-menu"></div>
     </div>
 </header>
+
 <div class="greeting">
     <div class="container">
         <h3 class="greeting-header">Hello! We are Loom Studio</h3>
         <p class="greeting-text">a creative media agency that believes in the power of creative ideas and great design.</p>
     </div>
 </div>
+
 <div class="slider">
     <div class="container">
         <div class="slider-wrap">
@@ -69,6 +76,7 @@
         </div>
     </div>
 </div>
+
 <div class="wwd">
     <div class="container">
         <div class="wwd-header-wrap">
@@ -124,6 +132,7 @@
         </ul>
     </div>
 </div>
+
 <div class="process">
     <div class="container">
         <div class="process-header-wrap">
@@ -161,6 +170,7 @@
         </div>
     </div>
 </div>
+
 <div class="proj">
     <div class="container clearfix">
         <div class="proj-header-wrap">
@@ -168,41 +178,44 @@
             <h2 class="proj-header">Our resent projects</h2>
             <span class="proj-line"></span>
         </div>
-        <div class="proj-content">
-            <img src="img/proj1.png" alt="" class="proj-img">
-            <h2 class="proj-content-header">
-                Disc cover mockup
-            </h2>
-            <p class="proj-link">Music, PSD, Mockups</p>
-            <p class="proj-content-text">
-                Nulla libero un pharetra augue etiam malesuada magna
-                mollis. Nullam id dolor id nibh ultricies.
-            </p>
-        </div>
-        <div class="proj-content">
-            <img src="img/proj2.png" alt="" class="proj-img">
-            <h2 class="proj-content-header">
-                John Doe business card
-            </h2>
-            <p class="proj-link">Corporate, Card</p>
-            <p class="proj-content-text">
-                Donec sed odio dui. Etiam porta sem malesuada magna
-                mollis euismod erat a ante.
-            </p>
-        </div>
-        <div class="proj-content proj-content_last">
-            <img src="img/proj3.png" alt="" class="proj-img">
-            <h2 class="proj-content-header">
-                Infographic elements
-            </h2>
-            <p class="proj-link">Element, Graphic</p>
-            <p class="proj-content-text">
-                Euismod quis risus eget urna mollis ornare vel eu leo.
-                Fusce dapibus, tellus ac cursus commodo.
-            </p>
+        <div class="proj-content-wrap">
+            <div class="proj-content proj-content_first">
+                <img src="img/proj1.png" alt="" class="proj-img">
+                <h2 class="proj-content-header">
+                    Disc cover mockup
+                </h2>
+                <p class="proj-link">Music, PSD, Mockups</p>
+                <p class="proj-content-text">
+                    Nulla libero un pharetra augue etiam malesuada magna
+                    mollis. Nullam id dolor id nibh ultricies.
+                </p>
+            </div>
+            <div class="proj-content proj-content_second">
+                <img src="img/proj2.png" alt="" class="proj-img">
+                <h2 class="proj-content-header">
+                    John Doe business card
+                </h2>
+                <p class="proj-link">Corporate, Card</p>
+                <p class="proj-content-text">
+                    Donec sed odio dui. Etiam porta sem malesuada magna
+                    mollis euismod erat a ante.
+                </p>
+            </div>
+            <div class="proj-content proj-content_last">
+                <img src="img/proj3.png" alt="" class="proj-img">
+                <h2 class="proj-content-header">
+                    Infographic elements
+                </h2>
+                <p class="proj-link">Element, Graphic</p>
+                <p class="proj-content-text">
+                    Euismod quis risus eget urna mollis ornare vel eu leo.
+                    Fusce dapibus, tellus ac cursus commodo.
+                </p>
+            </div>
         </div>
     </div>
 </div>
+
 <div class="customer">
     <div class="container">
         <div class="customer-header-wrap">
@@ -265,6 +278,128 @@
             </div>
         </div>
         <!-- Slider-end -->
+    </div>
+</div>
+
+<div class="journal">
+    <div class="container clearfix">
+        <div class="journal-header-wrap">
+            <span class="journal-line"></span>
+            <h2 class="journal-header">From the journal</h2>
+            <span class="journal-line"></span>
+        </div>
+        <div class="journal-content-wrap">
+            <div class="journal-content">
+                <img src="img/journal-1.png" alt="" class="journal-img">
+                <div class="date">
+                    <span class="day">21 </span>
+                    <span class="month">Feb</span>
+                </div>
+                <h3 class="journal-content-header">Ultricies Cras Ullamcorper Elit</h3>
+                <p class="journal-tags">Journal, Article  |  7 Comments </p>
+                <div class="clear"></div>
+                <p class="journal-text">Nulla libero un pharetra
+                    augue etiam malesuada magna mollis. Praesent
+                    commodo cursus magna scelerisque. </p>
+            </div>
+            <div class="journal-content">
+                <img src="img/journal-2.png" alt="" class="journal-img">
+                <div class="date">
+                    <span class="day">21 </span>
+                    <span class="month">Feb</span>
+                </div>
+                <h3 class="journal-content-header">Sem Elit Amet Vestibulum</h3>
+                <p class="journal-tags">Graphic, Article  | 13 Comments </p>
+                <div class="clear"></div>
+                <p class="journal-text">Donec ullamcorper nulla non
+                    metus auctor fringilla. Duis mollis, est non
+                    commodo luctus, nisi erat porttitor ligula.</p>
+            </div>
+            <div class="journal-content journal-content_last">
+                <img src="img/joural-3.png" alt="" class="journal-img">
+                <div class="date">
+                    <span class="day">21 </span>
+                    <span class="month">Feb</span>
+                </div>
+                <h3 class="journal-content-header">Vestibulum Magna Venenatis Tellus</h3>
+                <p class="journal-tags">Journal, Article, Poster  |  11 Comments </p>
+                <div class="clear"></div>
+                <p class="journal-text">Fusce dapibus, tellus ac
+                    cursus commodo, tortor mauris condimentum nibh,
+                    ut fermentum massa justo risus.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="footer">
+    <div class="container clearfix">
+        <div class="footer-content-wrap">
+            <div class="footer-content footer-content_first">
+                <h3 class="footer-header">Get in touch</h3>
+                <p class="footer-text">
+                    Fusce dapibus, tellus commodo, tortor mauris
+                    condimentum utellus fermentum, porta sem malesuada
+                    magna.
+                </p>
+                <a href="#" class="footer-link footer-img-map">
+                    Moonshine Street No: 14/05
+                    Light City, Jupiter
+                </a>
+                <a href="tel:02475416587" class="footer-link footer-img-tel">
+                    0247 541 65 87
+                </a>
+                <a href="mailto:support@longwave.com" class="footer-link footer-img-email">
+                    support@longwave.com
+                </a>
+            </div>
+            <div class="footer-content">
+                <h3 class="footer-header">Twitter</h3>
+                <p class="footer-text">
+                    Aenean lacinia bibendum nulla sed leo posuere erat a ante venenatis dapibus posuere velit aliquet.
+                </p>
+
+                <p class="footer-text">
+                    Donec ullamcorper metus auctor fringilla. Nullam quis risus eget.
+                </p>
+
+                <p class="footer-text">
+                    Vestibulum id ligula porta  euismod semper. Maecenas faucibus mollis.
+                </p>
+            </div>
+            <div class="footer-content">
+                <h3 class="footer-header">Popular posts</h3>
+                <p class="footer-text">
+                    Vivamus sagittis lacus vel augue laoreet rutrum dolor auctor.
+                    <br>14 Nov, 2012
+                </p>
+                <p class="footer-text">
+                    Scelerisque nisl consectetur et.
+                    <br>22 May, 2012
+                </p>
+                <p class="footer-text">
+                    Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce
+                    <br>12 July, 2012
+                </p>
+            </div>
+            <div class="footer-content footer-content_last">
+                <h3 class="footer-header">About us</h3>
+                <p class="footer-text">
+                    Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+                </p>
+                <p class="footer-text">
+                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus curabitur blandit tempus.
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<div class="copy">
+    <div class="container">
+        <div class="copy-text">
+            © 2013 Loom. All rights reserved. Theme by elemis.
+        </div>
     </div>
 </div>
 </body>

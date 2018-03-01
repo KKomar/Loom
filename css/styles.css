@@ -22,6 +22,10 @@ font-family: 'Conv_Raleway-ExtraLight', sans-serif;
 div.clear {
     clear: both;
 }
+.slicknav_menu {
+    display: none;
+}
+
 /*-------HEADER-------*/
 
 .header {
@@ -40,9 +44,13 @@ div.clear {
     font-size: 13px;
     font-weight: 700;
     float: left;
-    margin-left: 47px;
+    margin-right: 45px;
+}
+.header-menu-item:last-child {
+    margin-right: 0;
 }
 .header-menu-link {
+    outline: none;
     text-decoration: none;
     color: rgb(96, 96, 96);
 }
@@ -226,7 +234,7 @@ div.clear {
     font-weight: 500;
     line-height: 25px;
     text-align: center;
-    margin: 0 150px 45px 150px;
+    margin: 0 12% 45px 12%;
 }
 .process-icon-wrap {
     text-align: center;
@@ -244,7 +252,6 @@ div.clear {
     font-family: 'Conv_Raleway-Bold', sans-serif;
     font-size: 14px;
     font-weight: 700;
-    line-height: 22px;
     text-transform: uppercase;
 }
 .process-icon-line {
@@ -283,8 +290,8 @@ div.clear {
 }
 .proj-content {
     float: left;
-    width: 370px;
-    margin: 0 30px 0 0;
+    width: 31%;
+    margin-right: 3%;
 }
 .proj-content_last {
     margin-right: 0;
@@ -375,3 +382,156 @@ div.clear {
 }
 
 /*---------END-CUSTOMERS---------*/
+
+/*--------------JOURNAL--------------*/
+
+.journal-header-wrap {
+    text-align: center;
+    margin-bottom: 18px;
+}
+.journal-header {
+    display: inline-block;
+    color: rgb(97, 97, 97);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-transform: uppercase;
+    margin: 78px 18px 40px 18px;
+}
+.journal-line {
+    display: inline-block;
+    vertical-align: 30%;
+    width: 82px;
+    height: 1px;
+    background-color: rgb(225, 225, 225);
+}
+.journal-content {
+    float: left;
+    width: 31%;
+    margin-right: 3.5%;
+    margin-bottom: 20px;
+}
+.journal-content_last {
+    margin-right: 0;
+}
+.journal-img {
+    margin-bottom: 20px;
+}
+.date {
+    color: rgb(122, 122, 122);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    width: 46px;
+    height: 46px;
+    border: 1px solid rgb(177, 177, 177);
+    text-align: center;
+    float: left;
+    margin-right: 15px;
+}
+.day {
+    font-size: 20px;
+}
+.month {
+    font-size: 12px;
+}
+.journal-content-header {
+    color: rgb(96, 96, 96);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+}
+.journal-tags {
+    color: rgb(26, 187, 156);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.journal-text {
+    color: rgb(122, 122, 122);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    margin-top: 9px;
+    margin-bottom: 55px;
+}
+
+/*------------END-JOURNAL-----------*/
+
+/*----------FOOTER-----------*/
+
+.footer {
+    background-color: rgb(55, 55, 55);
+}
+.footer-content {
+    width: 22%;
+    margin: 0 4% 0 0;
+    padding-top: 75px;
+    float: left;
+    margin-bottom: 60px;
+}
+.footer-content_last {
+    margin-right: 0;
+}
+.footer-header {
+    color: rgb(240, 240, 240);
+    font-family: 'Conv_Raleway-Bold', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: -10px;
+}
+.footer-text, .footer-date {
+    color: rgb(202, 202, 202);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    margin-top: 25px;
+}
+.footer-link {
+    display: block;
+    color: rgb(202, 202, 202);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    text-decoration: none;
+    padding-left: 25px;
+}
+.footer-link:hover {
+    color: teal;
+}
+.footer-img-map {
+    background: url("../img/map.png") no-repeat;
+    background-position-y: 6px;
+}
+.footer-img-tel {
+    background: url("../img/phone.png") no-repeat;
+    background-position-y: 7px;
+}
+.footer-img-email {
+    background: url("../img/email.png") no-repeat;
+    background-position-y: 9px;
+}
+
+/*---------END-FOOTER-----------*/
+
+/*-----------COPY------------*/
+
+.copy {
+    background-color: rgb(51, 51, 51);
+}
+.copy-text {
+    color: rgb(202, 202, 202);
+    font-family: 'Conv_Raleway-Medium', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 90px;
+}
+
+/*-----------END-COPY------------*/
